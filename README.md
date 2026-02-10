@@ -1,15 +1,13 @@
-# Angkor Heart (static site)
+# Angkor Heart Site (KhmerSoul.tour)
 
-Zero-build static website (HTML/CSS/JS) — ready for GitHub Pages.
+Web platform for a travel agency specializing in authentic experiences in Cambodia.
 
-## Deploy
-1) Create a GitHub repo
-2) Upload ALL files from this folder to repo root
-3) Settings → Pages → Deploy from branch → `main` + `/root`
-4) Open the Pages URL
+## 🌟 Overview
+This is the official landing page/website for the **KhmerSoul** travel agency. It provides tourists with information about local tours, cultural news, and booking options.
 
-## Edit
-- Replace contact placeholders in `index.html`
-- Replace tour booking links (currently `href="#"`)
-- Texts are in `js/i18n.js`
-- Styles in `css/styles.css`
+## 🛠 Tech Stack
+* **HTML5 / CSS3**
+* **JavaScript** (for UI interactions)
+
+## 🚀 Status
+The project is currently in the staging/production phase to support the "Secret of Khmer Soul" brand.
