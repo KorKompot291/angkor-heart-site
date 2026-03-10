@@ -312,7 +312,7 @@ hr.sep{border:0;border-top:1px solid rgba(245,239,230,.10);margin:18px 0}
 .tour-detail{display:grid;grid-template-columns:1.1fr .9fr;gap:26px;align-items:start}
 .tour-detail__text h1{margin:0 0 10px}
 .tour-detail__text .muted{margin:0 0 14px;color:rgba(245,239,230,.75)}
-.tour-detail__text .prose{color:rgba(245,239,230,.88);line-height:1.65}
+.tour-detail__text .prose{color:rgba(245,239,230,.88);line-height:1.65;white-space:pre-line;}
 .tour-detail__text .actions{margin-top:18px;display:flex;gap:12px;flex-wrap:wrap}
 .tour-gallery{display:grid;grid-template-columns:1fr;gap:12px}
 .tour-gallery img{width:100%;height:260px;object-fit:cover;border-radius:18px;border:1px solid rgba(245,239,230,.12)}
